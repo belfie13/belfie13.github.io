@@ -1,4 +1,4 @@
-* [Examples WHATWG HTML](WebFrontEnd_Examples/WHATWG_HTML.md)
+* [Examples WHATWG HTML](WebFrontEnd_Examples/WHATWG_HTML_Spec.md)
 
 Syntax highlighted code block
 
