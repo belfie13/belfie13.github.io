@@ -27,7 +27,7 @@
   <tr> <td>   <td>   <td>   <td>   <td> 7 <td>   <td>   <td>   <td>
   <tr> <td> 9 <td>   <td>   <td> 8 <td>   <td> 2 <td>   <td>   <td> 5
 </table>
-```html
+```
 
 <style>
  #sudoku { border-collapse: collapse; border: solid thick; }
