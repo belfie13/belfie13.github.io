@@ -29,7 +29,7 @@
 </table>
 ```
 
-<style>
+<style type="text/css">
  #sudoku { border-collapse: collapse; border: solid thick; }
  #sudoku colgroup, table#sudoku tbody { border: solid medium; }
  #sudoku td { border: solid thin; height: 1.4em; width: 1.4em; text-align: center; padding: 0; }
