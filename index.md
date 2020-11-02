@@ -9,6 +9,7 @@
 ### Animation
 
 * [Card Flip](WebFrontEnd_Examples/css_animation_card_flip.html)
+* [Card Flip](WebFrontEnd_Examples/css_animation_close_alert_banner.html)
 
 
 ## Markdown
